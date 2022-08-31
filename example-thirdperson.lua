@@ -9,7 +9,7 @@ DarkRP.declareChatCommand({
 	delay = 1.5
 })
 
-if( CLIENT ) then
+if (CLIENT) then
 	function ThirdPersonUmsg( data )
 		if( LocalPlayer().ThirdPerson == nil ) then
 			LocalPlayer().ThirdPerson = true

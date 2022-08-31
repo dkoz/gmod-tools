@@ -8,3 +8,5 @@ Scripts Available:
 - Thirdperson: Simple script that toggles thirdperson mode with a command.
 - ULX Chat Prefixes: Simple chat prefixes infront of players name.
 - VIP Job Snippet: Simple table that reads off ULX Groups to create vip jobs easily.
+- Workshop Downloader: This will force people to download all content from your workshop collection.
+- Ticker: Simple news scroller that appears on the top of the players screen.
