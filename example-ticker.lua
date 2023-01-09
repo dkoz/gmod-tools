@@ -1,3 +1,8 @@
+--[[
+	News Ticker
+	Creates news scroll at top of screen
+--]]
+
 if (SERVER) then return end
 
 surface.CreateFont( "gmod_TickerFont", {
